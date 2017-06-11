@@ -1,0 +1,38 @@
+
+
+#container{
+    width:100%;
+    height:100%;
+    position:absolute;
+    background:#ffffff;
+    top:0;
+    left:0;
+}
+
+body {
+	font-family: 'Abel', sans-serif;
+    background-image: url("assets/background-pattern-design-31.jpg");
+    background-color: #cccccc;
+}
+.container{
+	background:#fff;
+
+}
+
+.img-thumbnail{
+	padding: 10px; 
+
+}
+
+.img{
+	height: 25%;
+	width: 25%;
+	padding: 10px; 
+}
+.jumbotron{
+width: 90%;
+}
+.footer {
+  height: 50px;
+  margin-top: -50px;
+}
